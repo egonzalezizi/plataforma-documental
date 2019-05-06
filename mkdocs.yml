@@ -7,4 +7,10 @@ nav:
     - Sistema de Información Pública: Primeros Pasos/sip.md
     - Instalación: Primeros Pasos/install.md
   - Manuales:
-    - Creación Llaves: Manuales/llaves.md
+    - Creación Llaves: Primeros Pasos/Coordinador.md
+    - API's: Primeros Pasos/Coordinador.md
+    - DevOps: Primeros Pasos/Coordinador.md
+    - Sanity Checks: Primeros Pasos/Coordinador.md
+    - Soporte: Primeros Pasos/Coordinador.md1
+  - Documentación Proyectos:
+    - Cotas Despacho: Primeros Pasos/Coordinador.md
